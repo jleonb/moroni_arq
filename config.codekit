@@ -1,0 +1,3737 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "19051",
+"files": {
+	"\/apple-touch-icon-114-precomposed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6920,
+		"inputAbbreviatedPath": "\/apple-touch-icon-114-precomposed.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-114-precomposed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon-144-precomposed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8827,
+		"inputAbbreviatedPath": "\/apple-touch-icon-144-precomposed.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-144-precomposed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon-72-precomposed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4234,
+		"inputAbbreviatedPath": "\/apple-touch-icon-72-precomposed.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-72-precomposed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/asesoria-inmobiliaria.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/asesoria-inmobiliaria.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/casa_las_brisas.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/casa_las_brisas.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/casa_maihue.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/casa_maihue.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/casa_quintay.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/casa_quintay.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/cocina_rojas.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/cocina_rojas.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/bootstrap.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/bootstrap.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/hover.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/hover.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/ihover.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/ihover.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/lightbox.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/lightbox.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/depto_salinas.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/depto_salinas.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/favicon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1183,
+		"inputAbbreviatedPath": "\/favicon.png",
+		"outputAbbreviatedPath": "\/favicon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/home.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/img\/asesoria.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16878,
+		"inputAbbreviatedPath": "\/img\/asesoria.jpg",
+		"outputAbbreviatedPath": "\/img\/asesoria.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/asesoria_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65636,
+		"inputAbbreviatedPath": "\/img\/asesoria_1.jpg",
+		"outputAbbreviatedPath": "\/img\/asesoria_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/close.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 280,
+		"inputAbbreviatedPath": "\/img\/close.png",
+		"outputAbbreviatedPath": "\/img\/close.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11672,
+		"inputAbbreviatedPath": "\/img\/interiorismo.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 240027,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/1.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38550,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/2.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 183989,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/3.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91644,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/4.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91191,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/5.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61847,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/6.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 298529,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/7.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 730923,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/8.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/cocina_rojas\/01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 257754,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/01.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/cocina_rojas\/02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/02.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/cocina_rojas\/03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 344210,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/03.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/cocina_rojas\/04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/04.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/cocina_rojas\/05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/05.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/cocina_rojas\/06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85682,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/06.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/cocina_rojas\/07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91644,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/07.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/cocina_rojas\/08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91191,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/08.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/cocina_rojas\/09.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85762,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/09.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/09.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/cocina_rojas\/10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93912,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/10.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/cocina_rojas\/11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81194,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/11.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/cocina_rojas\/11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 187326,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/01.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 202737,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/02.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 180038,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/03.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 158471,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/04.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 183989,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/05.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 190751,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/06.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 205001,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/07.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 214880,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/08.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/09.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 186236,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/09.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/09.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 453419,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/10.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 374974,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/11.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 343018,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/12.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/13.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 389315,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/13.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/13.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/14.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 392171,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/14.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/14.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/15.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 677661,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/15.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/15.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/16.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 454924,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/16.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/16.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/17.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 753219,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/17.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/17.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/18.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 373987,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/18.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/18.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/19.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 445727,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/19.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/19.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/20.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 279957,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/20.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/20.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/21.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 148642,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/21.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/21.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo\/depto_salinas\/22.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160210,
+		"inputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/22.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo\/depto_salinas\/22.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interiorismo_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65335,
+		"inputAbbreviatedPath": "\/img\/interiorismo_1.jpg",
+		"outputAbbreviatedPath": "\/img\/interiorismo_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logo-moroni.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6904,
+		"inputAbbreviatedPath": "\/img\/logo-moroni.png",
+		"outputAbbreviatedPath": "\/img\/logo-moroni.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15663,
+		"inputAbbreviatedPath": "\/img\/logo.png",
+		"outputAbbreviatedPath": "\/img\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/next.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1350,
+		"inputAbbreviatedPath": "\/img\/next.png",
+		"outputAbbreviatedPath": "\/img\/next.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/objetos.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12831,
+		"inputAbbreviatedPath": "\/img\/objetos.jpg",
+		"outputAbbreviatedPath": "\/img\/objetos.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/objetos\/01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50680,
+		"inputAbbreviatedPath": "\/img\/objetos\/01.jpg",
+		"outputAbbreviatedPath": "\/img\/objetos\/01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/objetos\/02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/objetos\/02.jpg",
+		"outputAbbreviatedPath": "\/img\/objetos\/02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/objetos\/03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/objetos\/03.jpg",
+		"outputAbbreviatedPath": "\/img\/objetos\/03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/objetos\/04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79308,
+		"inputAbbreviatedPath": "\/img\/objetos\/04.jpg",
+		"outputAbbreviatedPath": "\/img\/objetos\/04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/objetos\/05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 500686,
+		"inputAbbreviatedPath": "\/img\/objetos\/05.jpg",
+		"outputAbbreviatedPath": "\/img\/objetos\/05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/objetos\/06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 426512,
+		"inputAbbreviatedPath": "\/img\/objetos\/06.jpg",
+		"outputAbbreviatedPath": "\/img\/objetos\/06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/objetos\/07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 437870,
+		"inputAbbreviatedPath": "\/img\/objetos\/07.jpg",
+		"outputAbbreviatedPath": "\/img\/objetos\/07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/objetos\/08.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 382006,
+		"inputAbbreviatedPath": "\/img\/objetos\/08.JPG",
+		"outputAbbreviatedPath": "\/img\/objetos\/08.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/objetos\/09.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 391800,
+		"inputAbbreviatedPath": "\/img\/objetos\/09.JPG",
+		"outputAbbreviatedPath": "\/img\/objetos\/09.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/objetos\/10.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 546532,
+		"inputAbbreviatedPath": "\/img\/objetos\/10.JPG",
+		"outputAbbreviatedPath": "\/img\/objetos\/10.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/objetos\/11.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 545361,
+		"inputAbbreviatedPath": "\/img\/objetos\/11.JPG",
+		"outputAbbreviatedPath": "\/img\/objetos\/11.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/objetos\/12.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 317389,
+		"inputAbbreviatedPath": "\/img\/objetos\/12.JPG",
+		"outputAbbreviatedPath": "\/img\/objetos\/12.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/objetos\/13.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 292650,
+		"inputAbbreviatedPath": "\/img\/objetos\/13.JPG",
+		"outputAbbreviatedPath": "\/img\/objetos\/13.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/objetos\/14.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 322001,
+		"inputAbbreviatedPath": "\/img\/objetos\/14.JPG",
+		"outputAbbreviatedPath": "\/img\/objetos\/14.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/objetos_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67614,
+		"inputAbbreviatedPath": "\/img\/objetos_1.jpg",
+		"outputAbbreviatedPath": "\/img\/objetos_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/oficinas.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13486,
+		"inputAbbreviatedPath": "\/img\/oficinas.jpg",
+		"outputAbbreviatedPath": "\/img\/oficinas.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/oficinas\/qbe_chile\/01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130121,
+		"inputAbbreviatedPath": "\/img\/oficinas\/qbe_chile\/01.jpg",
+		"outputAbbreviatedPath": "\/img\/oficinas\/qbe_chile\/01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/oficinas\/qbe_chile\/02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 111670,
+		"inputAbbreviatedPath": "\/img\/oficinas\/qbe_chile\/02.jpg",
+		"outputAbbreviatedPath": "\/img\/oficinas\/qbe_chile\/02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/oficinas\/qbe_chile\/03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122130,
+		"inputAbbreviatedPath": "\/img\/oficinas\/qbe_chile\/03.jpg",
+		"outputAbbreviatedPath": "\/img\/oficinas\/qbe_chile\/03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/oficinas\/qbe_chile\/04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 154568,
+		"inputAbbreviatedPath": "\/img\/oficinas\/qbe_chile\/04.jpg",
+		"outputAbbreviatedPath": "\/img\/oficinas\/qbe_chile\/04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/oficinas\/qbe_chile\/05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 138529,
+		"inputAbbreviatedPath": "\/img\/oficinas\/qbe_chile\/05.jpg",
+		"outputAbbreviatedPath": "\/img\/oficinas\/qbe_chile\/05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/oficinas\/qbe_chile\/06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101637,
+		"inputAbbreviatedPath": "\/img\/oficinas\/qbe_chile\/06.jpg",
+		"outputAbbreviatedPath": "\/img\/oficinas\/qbe_chile\/06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/oficinas\/qbe_chile\/07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 144628,
+		"inputAbbreviatedPath": "\/img\/oficinas\/qbe_chile\/07.jpg",
+		"outputAbbreviatedPath": "\/img\/oficinas\/qbe_chile\/07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/oficinas\/qbe_chile\/08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 121643,
+		"inputAbbreviatedPath": "\/img\/oficinas\/qbe_chile\/08.jpg",
+		"outputAbbreviatedPath": "\/img\/oficinas\/qbe_chile\/08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/oficinas\/qbe_chile\/09.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 135209,
+		"inputAbbreviatedPath": "\/img\/oficinas\/qbe_chile\/09.jpg",
+		"outputAbbreviatedPath": "\/img\/oficinas\/qbe_chile\/09.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/oficinas_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61567,
+		"inputAbbreviatedPath": "\/img\/oficinas_1.jpg",
+		"outputAbbreviatedPath": "\/img\/oficinas_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/placeholder-image.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7727,
+		"inputAbbreviatedPath": "\/img\/placeholder-image.png",
+		"outputAbbreviatedPath": "\/img\/placeholder-image.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/prev.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1360,
+		"inputAbbreviatedPath": "\/img\/prev.png",
+		"outputAbbreviatedPath": "\/img\/prev.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/revision.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13491,
+		"inputAbbreviatedPath": "\/img\/revision.jpg",
+		"outputAbbreviatedPath": "\/img\/revision.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/revision_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64565,
+		"inputAbbreviatedPath": "\/img\/revision_1.jpg",
+		"outputAbbreviatedPath": "\/img\/revision_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19221,
+		"inputAbbreviatedPath": "\/img\/vivienda.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 325573,
+		"inputAbbreviatedPath": "\/img\/vivienda\/1.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 299940,
+		"inputAbbreviatedPath": "\/img\/vivienda\/2.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 302839,
+		"inputAbbreviatedPath": "\/img\/vivienda\/3.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98464,
+		"inputAbbreviatedPath": "\/img\/vivienda\/4.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57846,
+		"inputAbbreviatedPath": "\/img\/vivienda\/5.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 253405,
+		"inputAbbreviatedPath": "\/img\/vivienda\/6.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 212370,
+		"inputAbbreviatedPath": "\/img\/vivienda\/7.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 452013,
+		"inputAbbreviatedPath": "\/img\/vivienda\/8.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_las_brisas\/01.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43650,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/01.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/01.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_las_brisas\/02.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38550,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/02.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/02.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_las_brisas\/03.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58687,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/03.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/03.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_las_brisas\/04.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34925,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/04.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/04.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_las_brisas\/05.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60503,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/05.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/05.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_las_brisas\/06.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66277,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/06.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/06.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_las_brisas\/07.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56320,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/07.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/07.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_las_brisas\/08.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61847,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/08.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/08.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_las_brisas\/09.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51200,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/09.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/09.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_las_brisas\/10.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57846,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/10.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/10.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_las_brisas\/11.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47970,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/11.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/11.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_las_brisas\/12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 181292,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/12.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_las_brisas\/13.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 149980,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/13.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/13.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_las_brisas\/14.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 212370,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/14.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/14.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_las_brisas\/15.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 291942,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/15.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/15.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_las_brisas\/16.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 426068,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/16.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/16.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_las_brisas\/17.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 388049,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/17.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/17.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_las_brisas\/18.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 314551,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/18.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_las_brisas\/18.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/01.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 299940,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/01.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/01.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/02.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 308507,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/02.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/02.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/03.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 384068,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/03.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/03.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/04.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 307841,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/04.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/04.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/05.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 127493,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/05.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/05.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/06.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161133,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/06.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/06.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/07.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 173565,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/07.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/07.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/08.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 163205,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/08.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/08.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/09.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 269682,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/09.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/09.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/10.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 253405,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/10.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/10.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/11.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 230649,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/11.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/11.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/12.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 214600,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/12.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/12.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/13.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 207691,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/13.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/13.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/14.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 201155,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/14.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/14.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/15.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 159131,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/15.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/15.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/16.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 181029,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/16.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/16.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/17.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95487,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/17.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/17.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/18.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 189126,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/18.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/18.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/19.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 220757,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/19.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/19.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/20.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 218327,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/20.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/20.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/21.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204461,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/21.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/21.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/22.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 195891,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/22.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/22.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/23.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 158946,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/23.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/23.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/24.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 145101,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/24.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/24.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/25.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128951,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/25.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/25.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/26.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140976,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/26.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/26.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/27.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 129786,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/27.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/27.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_maihue\/28.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 137525,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/28.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_maihue\/28.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/01.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169191,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/01.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/01.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/02.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 240027,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/02.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/02.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/03.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 214580,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/03.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/03.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/04.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 260542,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/04.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/04.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/05.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 255775,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/05.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/05.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/06.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 336812,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/06.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/06.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/07.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 312160,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/07.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/07.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/08.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 315846,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/08.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/08.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/09.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 249568,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/09.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/09.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/10.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 290320,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/10.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/10.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/11.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 263980,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/11.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/11.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/12.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 288101,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/12.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/12.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/13.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 280509,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/13.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/13.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/14.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 283521,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/14.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/14.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/15.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 392243,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/15.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/15.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/16.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 611195,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/16.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/16.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/17.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 326548,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/17.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/17.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/18.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 512894,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/18.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/18.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/19.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 568081,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/19.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/19.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/20.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 357195,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/20.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/20.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/21.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 539552,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/21.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/21.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/22.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 635553,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/22.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/22.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/23.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 696705,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/23.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/23.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/24.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 296070,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/24.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/24.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/25.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 337066,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/25.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/25.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/26.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 422012,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/26.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/26.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/27.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 667109,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/27.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/27.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/28.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 384759,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/28.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/28.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/29.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 321469,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/29.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/29.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/30.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 575474,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/30.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/30.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/31.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 577263,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/31.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/31.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/32.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 616363,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/32.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/32.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/33.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 525007,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/33.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/33.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/34.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 418154,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/34.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/34.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/35.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 567434,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/35.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/35.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/36.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 556231,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/36.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/36.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/37.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 606006,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/37.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/37.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/38.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 655909,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/38.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/38.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/39.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 585572,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/39.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/39.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/40.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 698036,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/40.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/40.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/41.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 373769,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/41.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/41.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/42.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 395776,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/42.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/42.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/43.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 360876,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/43.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/43.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/44.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 525634,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/44.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/44.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/45.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 637892,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/45.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/45.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/46.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 598625,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/46.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/46.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/47.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 579732,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/47.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/47.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/48.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 308778,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/48.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/48.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_quintay\/49.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 632037,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/49.JPG",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_quintay\/49.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/menu_casa_las_brisas.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21573,
+		"inputAbbreviatedPath": "\/img\/vivienda\/menu_casa_las_brisas.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/menu_casa_las_brisas.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/menu_casa_maihue.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34637,
+		"inputAbbreviatedPath": "\/img\/vivienda\/menu_casa_maihue.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/menu_casa_maihue.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/menu_casa_quintay.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30738,
+		"inputAbbreviatedPath": "\/img\/vivienda\/menu_casa_quintay.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/menu_casa_quintay.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/menu_casa_sodalicio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23144,
+		"inputAbbreviatedPath": "\/img\/vivienda\/menu_casa_sodalicio.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/menu_casa_sodalicio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/menu_puertas_del_sol.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29487,
+		"inputAbbreviatedPath": "\/img\/vivienda\/menu_puertas_del_sol.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/menu_puertas_del_sol.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/puertas_del_sol\/01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 325573,
+		"inputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/01.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/puertas_del_sol\/02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 326097,
+		"inputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/02.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/puertas_del_sol\/03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 309292,
+		"inputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/03.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/puertas_del_sol\/04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 302839,
+		"inputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/04.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/puertas_del_sol\/05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 255621,
+		"inputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/05.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/puertas_del_sol\/06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 281314,
+		"inputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/06.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/puertas_del_sol\/07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 311074,
+		"inputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/07.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/puertas_del_sol\/08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 283517,
+		"inputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/08.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/puertas_del_sol\/09.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 289350,
+		"inputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/09.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/09.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/puertas_del_sol\/10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 228456,
+		"inputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/10.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/puertas_del_sol\/11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 369143,
+		"inputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/11.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/puertas_del_sol\/11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/00.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 399513,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/00.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/00.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 216395,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/01.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 194351,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/02.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 192377,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/03.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86880,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/04.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 176697,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/05.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 189054,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/06.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/07.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 147833,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/08.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/09.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/09.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/09.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 203920,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/10.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/11.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 214234,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/12.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/13.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 225650,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/13.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/13.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/14.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 249390,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/14.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/14.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/15.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 273845,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/15.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/15.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/16.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 232649,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/16.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/16.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/17.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 245138,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/17.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/17.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/18.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 219975,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/18.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/18.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/19.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 219035,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/19.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/19.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/20.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 335955,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/20.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/20.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/21.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 138850,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/21.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/21.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/22.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 249139,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/22.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/22.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/23.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 243808,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/23.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/23.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/24.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 230246,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/24.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/24.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/25.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 225987,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/25.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/25.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/sodalicio\/26.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 285296,
+		"inputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/26.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/sodalicio\/26.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55853,
+		"inputAbbreviatedPath": "\/img\/vivienda_1.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/interiorismo.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/interiorismo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/blocs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/blocs.js",
+		"outputAbbreviatedPath": "\/js\/min\/blocs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/bootstrap.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/bootstrap.js",
+		"outputAbbreviatedPath": "\/js\/min\/bootstrap-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/jquery-2.1.0.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jquery-2.1.0.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery-2.1.0.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lightbox.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lightbox.js",
+		"outputAbbreviatedPath": "\/js\/min\/lightbox-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/kit\/asesoria-inmobiliaria.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/asesoria-inmobiliaria.kit",
+		"outputAbbreviatedPath": "\/asesoria-inmobiliaria.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/casa_las_brisas.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/casa_las_brisas.kit",
+		"outputAbbreviatedPath": "\/casa_las_brisas.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/casa_maihue.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/casa_maihue.kit",
+		"outputAbbreviatedPath": "\/casa_maihue.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/casa_quintay.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/casa_quintay.kit",
+		"outputAbbreviatedPath": "\/casa_quintay.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/cocina_rojas.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/cocina_rojas.kit",
+		"outputAbbreviatedPath": "\/cocina_rojas.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/depto_salinas.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/depto_salinas.kit",
+		"outputAbbreviatedPath": "\/depto_salinas.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/footer.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/footer.kit",
+		"outputAbbreviatedPath": "\/footer.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/home.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/home.kit",
+		"outputAbbreviatedPath": "\/home.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/index.kit",
+		"outputAbbreviatedPath": "\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/interiorismo.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/interiorismo.kit",
+		"outputAbbreviatedPath": "\/interiorismo.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/menu.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/menu.kit",
+		"outputAbbreviatedPath": "\/menu.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/objetos.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/objetos.kit",
+		"outputAbbreviatedPath": "\/objetos.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/oficinas.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/oficinas.kit",
+		"outputAbbreviatedPath": "\/oficinas.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/puertas_del_sol.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/puertas_del_sol.kit",
+		"outputAbbreviatedPath": "\/puertas_del_sol.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/revision-independiente.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/revision-independiente.kit",
+		"outputAbbreviatedPath": "\/revision-independiente.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/sodalicio.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/sodalicio.kit",
+		"outputAbbreviatedPath": "\/sodalicio.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/vivienda.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/vivienda.kit",
+		"outputAbbreviatedPath": "\/vivienda.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/objetos.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/objetos.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/oficinas.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/oficinas.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/puertas_del_sol.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/puertas_del_sol.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/revision-independiente.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/revision-independiente.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/sodalicio.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sodalicio.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vivienda.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vivienda.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Jaime",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "moroni",
+	"displayValueWasSetByUser": 1,
+	"iconImageName": "brackets_blue"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"futurehostile": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"varstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es6": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"for": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsonAutoOutputPathEnabled": 0,
+	"jsonAutoOutputPathFilenamePattern": "*-min.json",
+	"jsonAutoOutputPathRelativePath": "",
+	"jsonAutoOutputPathReplace1": "",
+	"jsonAutoOutputPathReplace2": "",
+	"jsonAutoOutputPathStyle": 0,
+	"jsonOrderOutput": 0,
+	"jsonOutputStyle": 1,
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
+	"kitAutoOutputPathRelativePath": "..\/",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 2,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownCriticStyle": 0,
+	"markdownEnableFootnotes": 0,
+	"markdownEnableLabels": 1,
+	"markdownEnableSmartQuotes": 1,
+	"markdownEscapeLineBreaks": 0,
+	"markdownMaskEmailAddresses": 1,
+	"markdownOutputFormat": 0,
+	"markdownOutputStyle": 0,
+	"markdownParseMetadata": 1,
+	"markdownProcessHTML": 0,
+	"markdownRandomFootnoteNumbers": 0,
+	"markdownUseCompatibilityMode": 0,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 10,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 0,
+	"slimLogicless": 0,
+	"slimOutputFormat": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptPreserveConstEnums": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptSuppressImplicitAnyIndexErrors": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bare-returns": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}
