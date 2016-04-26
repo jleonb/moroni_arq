@@ -11,6 +11,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/casa_hidalgo.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/casa_hidalgo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/casa_las_brisas.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -1488,6 +1497,182 @@
 		"initialSize": 452013,
 		"inputAbbreviatedPath": "\/img\/vivienda\/8.jpg",
 		"outputAbbreviatedPath": "\/img\/vivienda\/8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 538651,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_1.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 464380,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_10.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 445444,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_11.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 471810,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_12.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_13.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 440901,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_13.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_13.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_14.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 480716,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_14.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_14.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_15.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 372982,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_15.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_15.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_16.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 418259,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_16.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_16.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 522560,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_2.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 571353,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_3.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 609784,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_4.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 744654,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_5.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 715422,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_6.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 413718,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_7.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 518514,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_8.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 639310,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_9.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa_hidalgo\/casa_hidalgo_9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3089,6 +3274,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kit\/asesoria-inmobiliaria.kit",
 		"outputAbbreviatedPath": "\/asesoria-inmobiliaria.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/casa_hidalgo.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/casa_hidalgo.kit",
+		"outputAbbreviatedPath": "\/casa_hidalgo.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
