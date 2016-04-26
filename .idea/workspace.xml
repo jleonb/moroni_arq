@@ -3,24 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3801fc2c-c935-4114-9e86-64b0e2bf4ea0" name="Default" comment="Agregado revisión independiente.">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asesoria-inmobiliaria.html" afterPath="$PROJECT_DIR$/asesoria-inmobiliaria.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/casa_hidalgo.html" afterPath="$PROJECT_DIR$/casa_hidalgo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/casa_las_brisas.html" afterPath="$PROJECT_DIR$/casa_las_brisas.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/casa_maihue.html" afterPath="$PROJECT_DIR$/casa_maihue.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/casa_quintay.html" afterPath="$PROJECT_DIR$/casa_quintay.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocina_rojas.html" afterPath="$PROJECT_DIR$/cocina_rojas.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/depto_salinas.html" afterPath="$PROJECT_DIR$/depto_salinas.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interiorismo.html" afterPath="$PROJECT_DIR$/interiorismo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kit/menu.kit" afterPath="$PROJECT_DIR$/kit/menu.kit" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kit/revision-independiente.kit" afterPath="$PROJECT_DIR$/kit/revision-independiente.kit" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/objetos.html" afterPath="$PROJECT_DIR$/objetos.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oficinas.html" afterPath="$PROJECT_DIR$/oficinas.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/puertas_del_sol.html" afterPath="$PROJECT_DIR$/puertas_del_sol.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/revision-independiente.html" afterPath="$PROJECT_DIR$/revision-independiente.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sodalicio.html" afterPath="$PROJECT_DIR$/sodalicio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vivienda.html" afterPath="$PROJECT_DIR$/vivienda.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kit/home.kit" afterPath="$PROJECT_DIR$/kit/home.kit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kit/index.kit" afterPath="$PROJECT_DIR$/kit/index.kit" />
     </list>
     <ignored path="moroniarq.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,11 +48,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu.kit" pinned="false" current-in-tab="true">
+      <file leaf-file-name="menu.kit" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kit/menu.kit">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.kit" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kit/index.kit">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-847">
+              <caret line="16" column="98" selection-start-line="16" selection-start-column="98" selection-end-line="16" selection-end-column="98" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.kit" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kit/home.kit">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="98" column="101" selection-start-line="98" selection-start-column="101" selection-end-line="98" selection-end-column="101" />
               <folding />
             </state>
           </provider>
@@ -110,6 +116,8 @@
         <option value="$PROJECT_DIR$/kit/menu.kit" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/kit/revision-independiente.kit" />
+        <option value="$PROJECT_DIR$/kit/index.kit" />
+        <option value="$PROJECT_DIR$/kit/home.kit" />
       </list>
     </option>
   </component>
@@ -629,12 +637,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1442070512775</updated>
-      <workItem from="1461680365306" duration="2944000" />
+      <workItem from="1461680365306" duration="3228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2944000" />
+    <option name="totallyTimeSpent" value="3228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -804,6 +812,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kit/index.kit">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-847">
+          <caret line="16" column="98" selection-start-line="16" selection-start-column="98" selection-end-line="16" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kit/home.kit">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="98" column="101" selection-start-line="98" selection-start-column="101" selection-end-line="98" selection-end-column="101" />
           <folding />
         </state>
       </provider>
