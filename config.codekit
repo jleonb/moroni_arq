@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19099",
+"creatorBuild": "19137",
 "files": {
 	"\/asesoria-inmobiliaria.html": {
 		"fileType": 8192,
@@ -16,6 +16,15 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/casa_hidalgo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/casa_la_punta.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/casa_la_punta.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1497,6 +1506,314 @@
 		"initialSize": 452013,
 		"inputAbbreviatedPath": "\/img\/vivienda\/8.jpg",
 		"outputAbbreviatedPath": "\/img\/vivienda\/8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-10e.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 968647,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-10e.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-10e.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-11f.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.11178e+06,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-11f.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-11f.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-1f.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.16307e+06,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-1f.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-1f.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-4e.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.00454e+06,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-4e.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-4e.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-5f.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 855465,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-5f.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-5f.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-6d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 371046,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-6d.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-6d.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-7c.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 952967,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-7c.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-7c.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-corte1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168213,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-corte1.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-corte1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-corte2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 164304,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-corte2.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-corte2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-corte3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169732,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-corte3.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-corte3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-corte4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168460,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-corte4.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-corte4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-planta-cubierta.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 225657,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-planta-cubierta.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-planta-cubierta.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-planta.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 458628,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-planta.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-planta.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-10e.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77557,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-10e.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-10e.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-11f.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115729,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-11f.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-11f.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-1f.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 111231,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-1f.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-1f.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-4e.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86631,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-4e.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-4e.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-5f.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85250,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-5f.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-5f.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-6d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116213,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-6d.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-6d.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-7c.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91043,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-7c.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-7c.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-corte1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8151,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-corte1.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-corte1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-corte2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8426,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-corte2.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-corte2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-corte3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9014,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-corte3.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-corte3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-corte4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9169,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-corte4.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-corte4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-planta-cubierta.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18549,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-planta-cubierta.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-planta-cubierta.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-planta.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30100,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-planta.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/casa-la-punta-th-planta.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/ESQUEMA PUBLICO-PRIVADO_3c.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.4059e+06,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/ESQUEMA PUBLICO-PRIVADO_3c.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/ESQUEMA PUBLICO-PRIVADO_3c.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vivienda\/casa-la-punta\/ESQUEMA VOLUMENES_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.13773e+06,
+		"inputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/ESQUEMA VOLUMENES_2.jpg",
+		"outputAbbreviatedPath": "\/img\/vivienda\/casa-la-punta\/ESQUEMA VOLUMENES_2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3286,6 +3603,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/kit\/casa_la_punta.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/casa_la_punta.kit",
+		"outputAbbreviatedPath": "\/casa_la_punta.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/kit\/casa_las_brisas.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -4064,7 +4390,7 @@
 	"kitAutoOutputPathRelativePath": "..\/",
 	"kitAutoOutputPathReplace1": "",
 	"kitAutoOutputPathReplace2": "",
-	"kitAutoOutputPathStyle": 2,
+	"kitAutoOutputPathStyle": 1,
 	"lessAllowInsecureImports": 0,
 	"lessAutoOutputPathEnabled": 1,
 	"lessAutoOutputPathFilenamePattern": "*.css",
